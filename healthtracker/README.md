@@ -1,7 +1,8 @@
 # Getting Started with Create React App
-# npx create-react-app healthtracker
-# npm install --save chart.js react-chartjs-2
-# npm i react-axios
+ npx create-react-app healthtracker
+ npm install --save chart.js react-chartjs-2
+ npm i react-axios
+ 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
