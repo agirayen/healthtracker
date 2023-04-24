@@ -2,6 +2,8 @@
  npx create-react-app healthtracker \
  npm install --save chart.js react-chartjs-2 \
  npm i react-axios
+ npm i express
+ npm i mongoose
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
