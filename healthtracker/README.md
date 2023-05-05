@@ -1,3 +1,5 @@
+# Nutrition Tracker
+  Users can track their nutrition levels by entering their food intake with the corresponding quantity. Based on the user's entries, a chart will be generated for visual representation. Additionally, Alan voice assistant is available to answer any workout-related questions users may have.
 # Getting Started with Create React App
  npx create-react-app healthtracker \
 # Frontend
@@ -5,6 +7,7 @@ chart.js \
 bootstrap \
 axios \
 router \
+alan-ai
 
 # Backend
 express \
@@ -12,10 +15,13 @@ nodemon \
 cors \
 mongoose \
 bcryptjs \
-jsonwebtoken \
+jsonwebtoken 
 
 # Database 
-MongoDB \
+MongoDB 
+
+# Voice Assistant
+Alan AI
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

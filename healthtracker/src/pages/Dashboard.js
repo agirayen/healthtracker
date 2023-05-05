@@ -42,9 +42,9 @@ export default class Dashboard extends Component {
   return (
     <div className ="dash">
         <div className="header">
-        <h1>🍕🥗Calories Tracker🏋️</h1>
-        <h3>Women need 1,600–2,400 daily calories.</h3>
-        <h3>Men need 2,000–3,000 calories.</h3>
+        <h1>🍕🥗Nutrition Tracker🏋️</h1>
+        <h4>Women need 1,600–2,400 daily calories.</h4>
+        <h4>Men need 2,000–3,000 calories.</h4>
         <br />
         <button onClick={this.logOut}className="btn btn-primary">Logout</button>
         <div className="cardPart">
